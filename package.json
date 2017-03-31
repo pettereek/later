@@ -15,6 +15,10 @@
     "fullscreen"
   ],
   "author": "petter@pettereek.se",
+  "repository":  {
+    "type" : "git",
+    "url" : "https://github.com/pettereek/later.git"
+  },
   "license": "MIT",
   "dependencies": {
     "chalk": "^1.1.3",
